@@ -1,0 +1,10 @@
+C:\Users\DJAD\documents\visual studio 2010\Projects\CurrencyTracker\CurrencyTracker\bin\Debug\CurrencyTracker.exe.config
+C:\Users\DJAD\documents\visual studio 2010\Projects\CurrencyTracker\CurrencyTracker\bin\Debug\Database1.sdf
+C:\Users\DJAD\documents\visual studio 2010\Projects\CurrencyTracker\CurrencyTracker\bin\Debug\CurrencyTracker.exe
+C:\Users\DJAD\documents\visual studio 2010\Projects\CurrencyTracker\CurrencyTracker\bin\Debug\CurrencyTracker.pdb
+C:\Users\DJAD\documents\visual studio 2010\Projects\CurrencyTracker\CurrencyTracker\obj\x86\Debug\CurrencyTracker.Form1.resources
+C:\Users\DJAD\documents\visual studio 2010\Projects\CurrencyTracker\CurrencyTracker\obj\x86\Debug\CurrencyTracker.Properties.Resources.resources
+C:\Users\DJAD\documents\visual studio 2010\Projects\CurrencyTracker\CurrencyTracker\obj\x86\Debug\CurrencyTracker.csproj.GenerateResource.Cache
+C:\Users\DJAD\documents\visual studio 2010\Projects\CurrencyTracker\CurrencyTracker\obj\x86\Debug\CurrencyTracker.exe
+C:\Users\DJAD\documents\visual studio 2010\Projects\CurrencyTracker\CurrencyTracker\obj\x86\Debug\CurrencyTracker.pdb
+C:\Users\DJAD\Documents\Visual Studio 2010\Projects\CurrencyTracker\CurrencyTracker\obj\x86\Debug\CurrencyTracker.csprojResolveAssemblyReference.cache
